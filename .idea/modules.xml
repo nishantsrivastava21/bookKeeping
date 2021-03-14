@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BookKeeping.iml" filepath="$PROJECT_DIR$/.idea/BookKeeping.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Myra-master/.idea/Myra-master.iml" filepath="$USER_HOME$/Downloads/Myra-master/.idea/Myra-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testB/.idea/testB.iml" filepath="$PROJECT_DIR$/../testB/.idea/testB.iml" />
+    </modules>
+  </component>
+</project>
