@@ -7,8 +7,6 @@ from contacts.serializers import ContactSerializer
 
 
 class ContactView(viewsets.ViewSet):
-    authentication_classes = (authentication.TokenAuthentication, authentication.SessionAuthentication,)
-    permission_classes = (permissions.IsAuthenticated,)
 
     def create(self, request):
         try:

@@ -13,8 +13,6 @@ from dateutil import parser
 
 
 class TransactionView(viewsets.ViewSet):
-    authentication_classes = (authentication.TokenAuthentication, authentication.SessionAuthentication,)
-    permission_classes = (permissions.IsAuthenticated,)
 
     def list(self, request):
         try:
